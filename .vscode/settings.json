@@ -1,3 +1,4 @@
 {
-    "php.debug.ideKey": "VSCODE"
+    "php.debug.ideKey": "VSCODE",
+    "liveServer.settings.port": 5501
 }
